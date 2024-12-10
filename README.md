@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sample-React-Project
 Sample project
 =======
